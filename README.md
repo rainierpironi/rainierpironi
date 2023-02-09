@@ -1,6 +1,6 @@
 ### Oie devs 👋
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+Entusiasta da tecnologia desde criança, comecei minha transição de carreira em 2022, já conseguindo uma oportunidade no mercado de TI com 6 meses de estudos. Atualmente procuro desafios cada vez maiores para testar o meu aprendizado.Um profundo pensador criativo e comunicativo que aprecia trabalhar em equipe.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
@@ -35,12 +35,7 @@ object **Rainier Pironi** {
 
 [linkedin]: https://www.linkedin.com/in/rainierpironi/
 <br>
-
 #### Rede Sociais!
 
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
