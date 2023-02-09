@@ -9,10 +9,10 @@ Entusiasta da tecnologia desde criança, comecei minha transição de carreira e
 ```kotlin
 object **Rainier Pironi** {
  val name = "Rainier Gomes Pironi"
- val acknowledgements = listOf("HTML", "CSS", "PRISMA", "MYSQL", "VITE", "EXPO", "NODE", "VSCODE" )
+ val acknowledgements = listOf("Prisma", "MySQL", "Vite", "EXPO", "Node", "VsCode" )
  
  val primarySkillset = "Full Stack/Front-end Developer"
- val languages = listOf("JavaScript", "TypeScript", "React") 
+ val languages = listOf("Html", "CSS", "SCSS", "JavaScript", "TypeScript", "React") 
 
 }
 ```
